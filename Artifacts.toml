@@ -1,174 +1,174 @@
 [[libsemigroups]]
 arch = "aarch64"
-git-tree-sha1 = "5a97c36d48c5171f077af7ff0a40a70fa55af46c"
+git-tree-sha1 = "7632125bc1942208341d675346d7d72dd77220a4"
 os = "macos"
 
     [[libsemigroups.download]]
-    sha256 = "4315c39319273af08fcf20fa8f04fc5125466144e118e16c7062162caf2568d5"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "0d212ddfaaf51b7f29ca34e3f3288ef427d31ef92d8c74a19e9e3bcaae15ff37"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.aarch64-apple-darwin.tar.gz"
 [[libsemigroups]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dbe97a48054677f1d35f1bf8097ae1e5901076ab"
+git-tree-sha1 = "06bfe7d1345b43c0322b169fb29ff7c78a629166"
 libc = "glibc"
 os = "linux"
 
     [[libsemigroups.download]]
-    sha256 = "eaa1371798c3a9b09b5c9cfcf7c170b1c331c996fb88caf2384ba247b88b4b8f"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "0e9ceb5881a31c5c5dffda0c5e55329c8a4adb72f4d8e6338c79f627aa1720a4"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.aarch64-linux-gnu-cxx11.tar.gz"
 [[libsemigroups]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ed9fdc82315e066b5dc2a8dedc8fa88b620ef799"
+git-tree-sha1 = "446be5274d679b1255b2dd4f008731e5190007ac"
 libc = "musl"
 os = "linux"
 
     [[libsemigroups.download]]
-    sha256 = "5e1b9b032ca595cb2025e5ea7ae179713e7c72e73e91ac3df422492f4f664157"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "172306103279ddd1962f3e8e18b2264d41bf38e3b18220b0411529f2ea876489"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.aarch64-linux-musl-cxx11.tar.gz"
 [[libsemigroups]]
 arch = "aarch64"
-git-tree-sha1 = "61e0460d6129ce9149159b7fddac87c04f4ab4e8"
+git-tree-sha1 = "c8e571c13c6ebc1615d799a200a43e1859fcaf94"
 os = "freebsd"
 
     [[libsemigroups.download]]
-    sha256 = "caa5bb2e659adc7c0d9b4ba02e5de98f7bcdfcb23da117554a170013de5fe712"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "ff99f1fa0a653e9517490c1629a6de43e41ed2fe5fbfc12e7813404355afff18"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.aarch64-unknown-freebsd.tar.gz"
 [[libsemigroups]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "61944f383866ecb18fdd547a398b41bd14f0e45f"
+git-tree-sha1 = "3ca4aadeea38a39b9cad14e19b2e51cf3e4dadcc"
 libc = "glibc"
 os = "linux"
 
     [[libsemigroups.download]]
-    sha256 = "2057329eea4f653b88bac77428e4e71abcfbcfca5d49a329fa118f77263ff55a"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "43806b642d458d4e1732afaa58cf504679c8c8020145123445afc1e60dbeb503"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[libsemigroups]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "953d2323b515c2f878e0b9b1a51b7bb6c9573a0c"
+git-tree-sha1 = "f9168c40601226e7d9c3e0edaacf8143a7ddc81e"
 libc = "musl"
 os = "linux"
 
     [[libsemigroups.download]]
-    sha256 = "f610d1f666ef5064d6f3a1ba5d804b54a6d8769cd660567d7a7c9a4a1fa2a303"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "48fccf1e48025f0c7e228a8a176311419948fa14da63924b7e645d982cadaf56"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[libsemigroups]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f5570b62a70914506592368e0dfc3b4f43043ac9"
+git-tree-sha1 = "ac69516a6501662ed88ae6e085c73f9102af97e2"
 libc = "glibc"
 os = "linux"
 
     [[libsemigroups.download]]
-    sha256 = "9c56b0cd6546608462f256f7656232d55f9341853eb59a04a46c591af31f4aca"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "459fb10c6d5c09f9203690d2dc3495e7419b32ec1214c4c1b150d32f5b3bfeb8"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[libsemigroups]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5beba476e33a6d344eb1fa9d71ec0e7916aa71ec"
+git-tree-sha1 = "d2a8a3d408daff6a8aba5ef855202cc551c416f3"
 libc = "musl"
 os = "linux"
 
     [[libsemigroups.download]]
-    sha256 = "27438f3a228bd8404a79796d63b425a3b461ff281dcb339c38ec1e30327519a9"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "63217910bb2926122bb67bc0b4896a92378ec11279725d04e770e8a0e2ceb023"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[libsemigroups]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9d8c85e774cc23b52c51b9aa8ba7625a708b56eb"
+git-tree-sha1 = "6164e3aba2ef66ace7863d750057e962beae5c61"
 libc = "glibc"
 os = "linux"
 
     [[libsemigroups.download]]
-    sha256 = "5b791593f6215090e2252d195e15d0972b6794c2572df5c900d62702ac3e08fc"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "35a9e6c0a5974e948325c728ce5e252e1ee661fb1ab68113eb6c92c47652b460"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.i686-linux-gnu-cxx11.tar.gz"
 [[libsemigroups]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5a7a77496c70591717a28ab17f3475362b6b5aa3"
+git-tree-sha1 = "eb804058261e2644868dfdf151f899d041e101d3"
 libc = "musl"
 os = "linux"
 
     [[libsemigroups.download]]
-    sha256 = "6cbccde5eb2e59758a01ddf7440adec0c73076b8adbb67fc5594650473819e81"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "bf3d284cb025d05417c541947c8ba19dc319627a44324bb4395bc84cf02c5db4"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.i686-linux-musl-cxx11.tar.gz"
 [[libsemigroups]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ad2aff172435248e6c1aa7b57ef90f1649c33f94"
+git-tree-sha1 = "cab22c095ae6196c90089ed4fd0a91575718ac7c"
 os = "windows"
 
     [[libsemigroups.download]]
-    sha256 = "1ec6748fb7e434b62c78d3567a3a91691c16a4636a85398267081a97487c1d85"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "5b55041a64419a9a492b0f47a3d347be9101d1bb494d35e6c8ef84647f46db99"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.i686-w64-mingw32-cxx11.tar.gz"
 [[libsemigroups]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1470607a19f7d1c992a464583a443313db23a9e5"
+git-tree-sha1 = "6067601acb010ea50a6b548e3a139df16c52b315"
 libc = "glibc"
 os = "linux"
 
     [[libsemigroups.download]]
-    sha256 = "29848f77dbaf790b6a40fdd45b1f8fff1e1dd45a510ae4489293a72b29f7042d"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "7ac44106b68520b73a76effc23feab1ae1b4ea13892221865a3b885128d7fa09"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[libsemigroups]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "68c592739caf081f45d6216b0487c58630406569"
+git-tree-sha1 = "c191e01367ae070b024ad92938148e3968fe1fdc"
 libc = "glibc"
 os = "linux"
 
     [[libsemigroups.download]]
-    sha256 = "f6723e38efcc360914ef46d04f04e893d6801d92f53de1d9097b172efed1deb9"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "2611e91f972f8b7b3b4fc9ee92c523d5d1ce14772f2f0a1ca7d2d47c9c67a3dc"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.riscv64-linux-gnu-cxx11.tar.gz"
 [[libsemigroups]]
 arch = "x86_64"
-git-tree-sha1 = "dd4994aaa0b5b367d4fcf10c8300cec99d1877db"
+git-tree-sha1 = "83c12deb4ef959d7f29ab3ae8d3d400171e255b5"
 os = "macos"
 
     [[libsemigroups.download]]
-    sha256 = "bc0097c4d8f7e1956f4ae45b0baf171ec9100817b42fa68ecca53f91546c15f5"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "66dab6efee8f3e3867feedc8c3a9135855ca80428447cd3bbcae1855fff0b56c"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.x86_64-apple-darwin.tar.gz"
 [[libsemigroups]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c2202d4c1bc847e567a7297e0c33c0882a7c72bc"
+git-tree-sha1 = "0648f3cd4c6fa5fa8893d14949f94e8a01f68261"
 libc = "glibc"
 os = "linux"
 
     [[libsemigroups.download]]
-    sha256 = "fb9cd13f24a561a0e553441358c9fb190dd5b59362c4a3b960cbcfd1c45a690b"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "da5da46afac5816f8455b902cfc113bda4b3f8a41a25e3f104f60d67785ad8ba"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.x86_64-linux-gnu-cxx11.tar.gz"
 [[libsemigroups]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "abac4330e5f9ebe19d6fffe0068bb53331e8ad14"
+git-tree-sha1 = "fd554cbf0e3e98ba5001d60a10cd4a1e4f9e74ef"
 libc = "musl"
 os = "linux"
 
     [[libsemigroups.download]]
-    sha256 = "f40cecf057172831406d9498e00aac79a6555f194f4f4decdb5805e66db7f3d8"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "a100924e16ef64eec8f5ef94ad32ab189d0f069e571e36abb286d4e6efa6c06c"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.x86_64-linux-musl-cxx11.tar.gz"
 [[libsemigroups]]
 arch = "x86_64"
-git-tree-sha1 = "1fc5d9ca6ff9908efee0f211d03f10109c02e516"
+git-tree-sha1 = "38c47301374793097db0728a4b8d0653d6fc79f2"
 os = "freebsd"
 
     [[libsemigroups.download]]
-    sha256 = "2c6204667e9f75207e7beaa15fceba49810f043596b7f42537f0541c47a7a139"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "e128c67020e1fecec980ef89652669fb611f0ee7196620794852aa7de60ec58b"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.x86_64-unknown-freebsd.tar.gz"
 [[libsemigroups]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e784758d95eb8aa137844e9bd8fd7dcca81f81f0"
+git-tree-sha1 = "1549541e918f9c4ead7c9c80c8a11744f198b362"
 os = "windows"
 
     [[libsemigroups.download]]
-    sha256 = "17942149433c42442a041113b2a2ab99e9d6e07dccb3e9ac8d204f3de9417456"
-    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.1+1/libsemigroups.v3.5.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "fceb840c2b41aa1de9019e68efb51f8b4da0ac3d611bc9993eb30999b23b50b8"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_jll.jl/releases/download/libsemigroups-v3.5.3+0/libsemigroups.v3.5.3.x86_64-w64-mingw32-cxx11.tar.gz"
